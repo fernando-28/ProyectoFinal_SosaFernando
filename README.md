@@ -70,10 +70,12 @@ ProyectoFinal_SosaFernando/
 # ⚙️ Setup
 
 ## Prerequisitos
+```
 Java JDK 25     instalado 
 Maven 3.x       instalado
 Google Chrome   instalado (versión actualizada)
 IntelliJ IDEA 
+```
 
 # Dependencias utilizadas (pom.xml)
 
