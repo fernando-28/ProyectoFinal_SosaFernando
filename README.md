@@ -29,6 +29,7 @@ Reportes HTML
 El objetivo es validar funcionalidades críticas del sistema mediante escenarios BDD claros y mantenibles.
 
 # 🧱 Estructura del Proyecto
+```txt
 ProyectoFinal_SosaFernando/
 ├── .idea/
 ├── .mvn/
