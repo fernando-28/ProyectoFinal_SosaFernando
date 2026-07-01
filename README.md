@@ -6,12 +6,13 @@ Diseñado con el patrón Page Object Model (POM) para ser escalable y mantenible
 
 # 🧰 Stack tecnológico
 
-## Herramienta     	Versión
-Java	            25
-Selenium WebDriver	4.27.0
-Cucumber        	7.18.0
-TestNG          	7.8.0
-Maven              	3.x
+| Herramienta          | Versión |
+|----------------------|---------|
+| Java                 | 25      |
+| Selenium WebDriver   | 4.27.0  |
+| Cucumber             | 7.18.0  |
+| TestNG               | 7.8.0   |
+| Maven                | 3.x     |
 
 
 # 📌 Descripción del Proyecto
@@ -126,11 +127,15 @@ Este error aparece cuando la versión de Selenium en el pom.xml no coincide con 
 
 # 📝 Escenarios
 
-Los escenarios se escriben en Gherkin dentro de /resources/features/:
-**flujo_completo.feature**
+Los escenarios se escriben en Gherkin dentro de:
+
+```
+src/test/resources/features/flujo_completo.feature
+```
 
 **Feature: Flujo completo en OrangeHRM**
 
+```gherkin
 Feature: Flujo completo en OrangeHRM
 Como usuario administrador
 Quiero realizar un flujo E2E en OrangeHRM
@@ -158,6 +163,7 @@ And navego al módulo PIM
 And busco al empleado "John"
 And hago logout
 Then vuelvo a la página de Login
+```
 
 # 👤 Autor
 Fernando Fabio Sosa  
