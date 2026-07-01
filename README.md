@@ -84,7 +84,7 @@ TestNG                             — 7.10.2
 
 # Instalación
 1. Clonar el repositorio
-   git clone https://github.com/FernandoSosa/ProyectoFinal_SosaFernando.git
+   git clone https://github.com/fernando-28/ProyectoFinal_SosaFernando.git
    **(Espero poder subirlo a github)** 
 
 2. Entrar al directorio
