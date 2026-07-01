@@ -78,12 +78,14 @@ IntelliJ IDEA
 # Dependencias utilizadas (pom.xml)
 
 ## Framework utiliza las siguientes librerías:
-Selenium WebDriver                 — 4.21.0
-WebDriverManager                   — 5.8.0
-Cucumber Java                      — 7.18.1
-Cucumber TestNG                    — 7.18.1
-Cucumber Reporting (Masterthought) — 5.7.4
-TestNG                             — 7.10.2
+| Dependencia                         | Versión |
+|-------------------------------------|---------|
+| Selenium WebDriver                  | 4.21.0  |
+| WebDriverManager                    | 5.8.0   |
+| Cucumber Java                       | 7.18.1  |
+| Cucumber TestNG                     | 7.18.1  |
+| Cucumber Reporting (Masterthought)  | 5.7.4   |
+| TestNG                              | 7.10.2  |
 
 # Instalación
 1. Clonar el repositorio
