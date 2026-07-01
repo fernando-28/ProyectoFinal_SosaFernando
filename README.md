@@ -129,9 +129,7 @@ Este error aparece cuando la versión de Selenium en el pom.xml no coincide con 
 Los escenarios se escriben en Gherkin dentro de /resources/features/:
 **flujo_completo.feature**
 
-#### =====================================
-## Feature: Flujo completo en OrangeHRM
-#### =====================================
+**Feature: Flujo completo en OrangeHRM**
 
 Feature: Flujo completo en OrangeHRM
 Como usuario administrador
